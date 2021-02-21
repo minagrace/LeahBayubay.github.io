@@ -1,0 +1,104 @@
+<html>
+<style>
+body {
+  background-image: url('walangbrown.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+html {
+ height: 2000px;
+ width: 5%;
+ margin: 0;
+ padding: 0;
+ overflow: auto;
+}
+.centered {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.center {
+position: absolute;
+top: 78%;
+left: 37%;
+transform: translate(-50%, -50%);
+text-align: justify;
+}
+.middle {
+position: absolute;
+top: 115%;
+left: 37%;
+transform: translate(-50%, -50%);
+text-align: right;
+}
+.button {
+position: absolute;
+top: 15.7%;
+left: 17%;
+transform: translate(-50%, -50%);
+text-decoration-line: underline;
+text-decoration-style: solid;
+color: black;
+}
+.click {
+position: absolute;
+top: 15.7%;
+left: 23%;
+transform: translate(-50%, -50%);
+text-decoration-line: underline;
+text-decoration-style: solid;
+color: black;
+}
+.team {
+position: absolute;
+top: 276%;
+left: 30%;
+transform: translate(-50%, -50%);
+color: black;
+}
+.contact {
+position: absolute;
+top: 276%;
+left: 65%;
+transform: translate(-50%, -50%);
+color: black;
+}
+.p1 {
+  font-family: "Garamond", Serif;
+}
+.p2 {
+  font-family: "Verdana", Sans-serif;
+}
+h1 {text-align: center;}
+</style>
+<img src="WEBSITE.png" alt="AMONG US ICON" width="200" height="200">
+<a href="AMONG_US_WEBSITE.html" class="button" class="p2" style="font-size: 120%"> Home </a> 
+<a href="About.html" class="click" class="p2" style="font-size: 120%"> About Us </a> 
+<a href="OurTeam.html" class="team" class="p2" style="font-size: 150%"> Our Team </a> 
+<a href="ContactUs.html" class="contact" class="p2" style="font-size: 150%"> Contact Us </a> 
+<a href="OurTeam.html"><img src="ourteam.png" alt="Our Team" style="position:absolute; TOP:268%; LEFT:220px; WIDTH:180px; HEIGHT:110px"></a>
+<a href="ContactUs.html"><img src="contactus.png" alt="Contact Us" style="position:absolute; TOP:268%; LEFT:797px; WIDTH:180px; HEIGHT:110px"></a>
+<body>
+<img src="introduction.png" alt="Introduction" style="position:absolute; TOP:780px; LEFT:675px; WIDTH:600px; HEIGHT:500px">
+<img src="textbg.png" alt="BG" style="position:absolute; TOP:400px; LEFT:100px; WIDTH:800px; HEIGHT:500px"> 
+<b> <div class="centered" class="p1" style="font-size:379%;">What is Covid-19?</div> </b>
+<div class="center" class="p2" style="font-size:160%;"> 
+The novel CoronaVirus is generally referred to as COVID 19 and 
+<br> was designated 2019-nCoV by the World Health Organization (WHO). 
+<br> This virus is now referred to as Severe Acute Respiratory 
+<br> Syndrome Coronavirus 2 ( SARS-CoV-2 ). It is responsible for the latest 
+<br> virus outbreak that started at the start of December 2019. The first reported 
+<br> case was in Wuhan City, Hubei Province in China, which in many cases 
+<br> led to severe pneumonia and was exported to a number of countries and 
+<br> cities across the globe.
+ </div>
+ <div class="middle" class="p2" style="font-size:160%;" style="text-align: right"> 
+ Coronavirus disease, also known as COVID19 is an infectious 
+ <br> disease caused by a newly discovered coronavirus. It is a large family 
+ <br> of viruses that cause illness ranging from the common cold to more severe 
+ <br> diseases. A novel coronavirus (nCoV) is a new strain that has not 
+ <br> been previously identified in humans.
+ </div>
+</body>
+</html> 		
