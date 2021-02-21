@@ -1,0 +1,86 @@
+<html>
+<style>
+body {
+  background-image: url('walangbrown.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+html {
+ height: 2000px;
+ width: 5%;
+ margin: 0;
+ padding: 0;
+ overflow: auto;
+}
+.centered {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.center {
+position: absolute;
+top: 80%;
+left: 25%;
+transform: translate(-50%, -50%);
+color: black;
+}
+.button {
+position: absolute;
+top: 15.7%;
+left: 17%;
+transform: translate(-50%, -50%);
+text-decoration-line: underline;
+text-decoration-style: solid;
+color: black;
+}
+.click {
+position: absolute;
+top: 15.7%;
+left: 23%;
+transform: translate(-50%, -50%);
+text-decoration-line: underline;
+text-decoration-style: solid;
+color: black;
+}
+.team {
+position: absolute;
+top: 276%;
+left: 30%;
+transform: translate(-50%, -50%);
+color: black;
+}
+.contact {
+position: absolute;
+top: 276%;
+left: 65%;
+transform: translate(-50%, -50%);
+color: black;
+}
+.p1 {
+  font-family: "Garamond", Serif;
+}
+.p2 {
+  font-family: "Verdana", Sans-serif;
+}
+</style>
+<img src="WEBSITE.png" alt="AMONG US ICON" width="200" height="200">
+<a href="AMONG_US_WEBSITE.html" class="button" class="p2" style="font-size: 120%"> Home </a> 
+<a href="About.html" class="click" class="p2" style="font-size: 120%"> About Us </a> 
+<a href="OurTeam.html" class="team" class="p2" style="font-size: 150%"> Our Team </a> 
+<a href="ContactUs.html" class="contact" class="p2" style="font-size: 150%"> Contact Us </a> 
+<a href="OurTeam.html"><img src="ourteam.png" alt="Our Team" style="position:absolute; TOP:268%; LEFT:220px; WIDTH:180px; HEIGHT:110px"></a>
+<a href="ContactUs.html"><img src="contactus.png" alt="Contact Us" style="position:absolute; TOP:268%; LEFT:797px; WIDTH:180px; HEIGHT:110px"></a>
+<body> 
+<b> <div class="centered" class="p1" style="font-size:379%;">Contact Us</div> </b>
+<img src="contact.png" alt="Contact" style="position:absolute; TOP:600px; LEFT:675px; WIDTH:600px; HEIGHT:500px">
+<img src="textbg.png" alt="BG" style="position:absolute; TOP:400px; LEFT:100px; WIDTH:800px; HEIGHT:350px"> 
+<div class="center" class="p2" style="font-size:160%"> <b> Facilitator: </b> <a href="mailto:ap.maryjoy.aguilar@apecschools.edu.ph">Maryjoy Aguilar</a> 
+<br> <b> Scribes: </b> <a href="mailto:ap.myrellemacapinlac.brequillo@apecschools.edu.ph"> Myrelle Macapinlac Brequillo </a> 
+<br> <a href="mailto:ap.aieshajuliana.tan@apecschools.edu.ph"> Aiesha Juliana Tan</a>
+<br> <b> Spokesperson: </b> <a href="mailto:ap.justinevenice.ancermo@apecschools.edu.ph"> Justine Venice Ancermo </a>
+<br> <b> Researchers: </b>  <a href="mailto:ap.justinevenice.ancermo@apecschools.edu.ph"> Juliene Coleen Nicolas </a>
+<br> <a href="mailto:ap.eileahmilene.bayubay@apecschools.edu.ph"> Eileah Milene Bayubay </a> 
+<br> <a href="mailto:ap.shienafrancheska.cahanding@apecschools.edu.ph"> Shiena Francheska Cahanding </a>
+</body>
+</html>
